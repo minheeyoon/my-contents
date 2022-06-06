@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sanity Blogging Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
@@ -10,10 +9,3 @@ Now you can do the following things:
 - [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
 - [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
-=======
-## Personal Space
-
-막 쓰고, 막 수정하는 개인 공간
-
-- 여기도 계속 수정됩니다. (just do 정신)
->>>>>>> 300aaaed146c552daaa5b94d30bd401f5238e898
